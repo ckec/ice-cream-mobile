@@ -1,6 +1,6 @@
 {
   "name": "icecreammobile",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "react": "17.0.1",
-    "react-native": "0.64.0"
+    "react-native": "0.64.0",
+    "rxjs": "^6.6.7"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
